@@ -7,8 +7,8 @@ At this time, only (2) will be uploaded.
 
 When running the function in pumpingRatio_calc.py from (2), please ensure that "grotorian.xlsx" and the /dataSet/ folder are in the same directory. Structure the files in the /dataSet/ folder as illustrated in "0_test", which means:
 
-Create a directory (you can name it as you wish).
-Inside that directory, prepare paramSet.xlsx (please use the provided format by copying it).
+(1) Create a directory (you can name it as you wish).
+(2) Inside that directory, prepare paramSet.xlsx (please use the provided format by copying it).
 With paramSet.xlsx, you can set various parameters. It also allows you to add more lasers.
 
 When executing pumpingRatio_calc.py, input the name of the directory you created as an argument.as bellow:
